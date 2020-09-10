@@ -1,4 +1,0 @@
-imagenet-vgg-verydeep-19.mat
-
-линк към файла:
-https://giuezgbobbjxdzfofouzjy.coursera-apps.org/view/week4/Neural%20Style%20Transfer/pretrained-model/imagenet-vgg-verydeep-19.mat

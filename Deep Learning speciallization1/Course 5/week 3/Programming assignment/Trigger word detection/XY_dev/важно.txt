@@ -1,4 +1,0 @@
-Файлът X_dev.npy не ми даде да го сваля!
-
-линк към файла:
-https://gqgypcghbrovidivmjdqgk.coursera-apps.org/view/Week%203/Trigger%20word%20detection/XY_dev/X_dev.npy
