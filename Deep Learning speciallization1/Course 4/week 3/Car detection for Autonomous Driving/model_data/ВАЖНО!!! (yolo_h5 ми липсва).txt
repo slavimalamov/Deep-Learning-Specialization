@@ -1,0 +1,5 @@
+Документа yolo.h5, който е предварително тренирания модел- взет от интернет, той не може да бъде изтеглен.
+Нямам го !!!
+
+линк към файла:
+https://giuezgbobbjxdzfofouzjy.coursera-apps.org/view/week3/Car%20detection%20for%20Autonomous%20Driving/model_data/yolo.h5
